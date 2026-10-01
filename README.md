@@ -2,7 +2,7 @@
 
 Business Intelligence case study focused on commercial performance, executive indicators and financial analysis for a fictional e-commerce operation.
 
-![NexaCommerce Analytics](assets/NexaCommerce_Cover.png)
+![NexaCommerce Analytics](assets/nexa-commerce-cover.png)
 
 ## About the Project
 
@@ -28,19 +28,19 @@ The analysis was divided into three dashboard perspectives:
 
 Provides a consolidated view of revenue, target achievement, growth, margin and regional performance.
 
-![Executive Dashboard](assets/Visao_Executiva.png)
+![Executive Dashboard](assets/executive-overview.png)
 
 ### Commercial Performance
 
 Analyzes revenue by category, product and channel, highlighting commercial composition and performance.
 
-![Commercial Dashboard](assets/Performance_Comercial.png)
+![Commercial Dashboard](assets/commercial-performance.png)
 
 ### Financial Analysis
 
 Analyzes revenue, costs and margins to provide a financial perspective of the operation.
 
-![Financial Dashboard](assets/Analise_Financeira.png)
+![Financial Dashboard](assets/financial-analysis.png)
 
 ## Technologies
 
@@ -73,7 +73,7 @@ The project also includes a visual system designed to maintain consistency betwe
 
 The complete project documentation is available in PDF format:
 
-[View the complete NexaCommerce Portfolio](docs/NexaCommerce_Analytics.pdf)
+[View the complete NexaCommerce Portfolio](docs/nexacommerce_analytics.pdf)
 
 ## Disclaimer
 

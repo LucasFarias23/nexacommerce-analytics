@@ -2,7 +2,7 @@
 
 Business Intelligence case study focused on commercial performance, executive indicators and financial analysis for a fictional e-commerce operation.
 
-![NexaCommerce Analytics](assets/NexaCommerce.png)
+![NexaCommerce Analytics](assets/NexaCommerce_Case.png)
 
 ## About the Project
 

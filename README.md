@@ -28,19 +28,19 @@ The analysis was divided into three dashboard perspectives:
 
 Provides a consolidated view of revenue, target achievement, growth, margin and regional performance.
 
-![Executive Dashboard](assets/Visão Executiva.png)
+![Executive Dashboard](assets/Visao_Executiva.png)
 
 ### Commercial Performance
 
 Analyzes revenue by category, product and channel, highlighting commercial composition and performance.
 
-![Commercial Dashboard](assets/Performance Comercial.png)
+![Commercial Dashboard](assets/Performance_Comercial.png)
 
 ### Financial Analysis
 
 Analyzes revenue, costs and margins to provide a financial perspective of the operation.
 
-![Financial Dashboard](assets/Análise Financeira.png)
+![Financial Dashboard](assets/Análise_Financeira.png)
 
 ## Technologies
 

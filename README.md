@@ -22,7 +22,7 @@ The objective was to organize business indicators into an analytical environment
 
 ## Analytical Approach
 
-The analysis was divided into three dashboard perspectives:
+The analysis was divided into three dashboard perspectives.
 
 ### Executive Overview
 
@@ -65,16 +65,31 @@ Analyzes revenue, costs and margins to provide a financial perspective of the op
 
 ## Design System
 
-The project also includes a visual system designed to maintain consistency between the analytical dashboards and the project documentation.
+The project includes a visual system designed to maintain consistency across the analytical dashboards and project documentation.
 
 ![Design System](assets/design-system.png)
 
 ## Project Documentation
 
-The complete project documentation is available in PDF format:
+The complete project documentation presents the project overview, dashboard structure, design system, analytical approach and key business insights.
+
+[![Project Documentation](assets/portfolio-documentation.png)](docs/nexacommerce_analytics.pdf)
 
 [View the complete NexaCommerce Portfolio](docs/nexacommerce_analytics.pdf)
 
-## Disclaimer
+## Repository Structure
 
-This is a fictional Business Intelligence case created for portfolio and learning purposes. The data and business context do not represent a real company or commercial operation.
+```text
+nexacommerce-analytics/
+├── assets/
+│   ├── commercial-performance.png
+│   ├── design-system.png
+│   ├── executive-overview.png
+│   ├── financial-analysis.png
+│   ├── nexa-commerce-cover.png
+│   └── portfolio-documentation.png
+│
+├── docs/
+│   └── nexacommerce_analytics.pdf
+│
+└── README.md

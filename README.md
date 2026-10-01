@@ -28,7 +28,7 @@ The analysis was divided into three dashboard perspectives:
 
 Provides a consolidated view of revenue, target achievement, growth, margin and regional performance.
 
-![Executive Dashboard](assets/Visao_Executiva.png)
+![Executive Dashboard](assets/Visão_Executiva.png)
 
 ### Commercial Performance
 

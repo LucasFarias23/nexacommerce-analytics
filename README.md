@@ -34,13 +34,13 @@ Provides a consolidated view of revenue, target achievement, growth, margin and 
 
 Analyzes revenue by category, product and channel, highlighting commercial composition and performance.
 
-![Commercial Dashboard](assets/Perf_Comercial.png)
+![Commercial Dashboard](assets/Performance_Com.png)
 
 ### Financial Analysis
 
 Analyzes revenue, costs and margins to provide a financial perspective of the operation.
 
-![Financial Dashboard](assets/Analise_Fin.png)
+![Financial Dashboard](assets/Análise_Fin.png)
 
 ## Technologies
 

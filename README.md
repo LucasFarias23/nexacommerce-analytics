@@ -34,7 +34,7 @@ Provides a consolidated view of revenue, target achievement, growth, margin and 
 
 Analyzes revenue by category, product and channel, highlighting commercial composition and performance.
 
-![Commercial Dashboard](assets/Performance_Comercial.png)
+![Commercial Dashboard](assets/Perf_Comercial.png)
 
 ### Financial Analysis
 

@@ -40,7 +40,7 @@ Analyzes revenue by category, product and channel, highlighting commercial compo
 
 Analyzes revenue, costs and margins to provide a financial perspective of the operation.
 
-![Financial Dashboard](assets/Análise_Financeira.png)
+![Financial Dashboard](assets/Analise_Financeira.png)
 
 ## Technologies
 

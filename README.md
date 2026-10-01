@@ -75,7 +75,7 @@ The complete project documentation presents the project overview, dashboard stru
 
 [![Project Documentation](assets/portfolio-documentation.png)](docs/nexacommerce_analytics.pdf)
 
-[View the complete NexaCommerce Portfolio](docs/nexacommerce_analytics.pdf)
+[View the complete NexaCommerce Portfolio](docs/nexacommerce_analytics_.pdf)
 
 ## Repository Structure
 

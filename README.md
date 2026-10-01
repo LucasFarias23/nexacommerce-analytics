@@ -73,7 +73,7 @@ The project also includes a visual system designed to maintain consistency betwe
 
 The complete project documentation is available in PDF format:
 
-[View the complete NexaCommerce Portfolio](docs/NexaCommerce_Analytics_Portfolio.pdf)
+[View the complete NexaCommerce Portfolio](docs/NexaCommerce_Analytics.pdf)
 
 ## Disclaimer
 
